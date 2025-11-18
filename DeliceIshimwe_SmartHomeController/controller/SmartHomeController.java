@@ -1,4 +1,4 @@
-         
+          
 package controller;
  
 import devices.Device;
@@ -147,5 +147,6 @@ public class SmartHomeController {
         }
     }
 }
+
 
 
