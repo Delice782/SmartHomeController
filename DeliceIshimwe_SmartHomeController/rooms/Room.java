@@ -1,4 +1,4 @@
-           
+            
 package rooms;
 
 import java.util.ArrayList;
@@ -79,5 +79,6 @@ public class Room {
         return "Room: " + name + " with " + devices.size() + " devices";
     }
 }
+
 
 
