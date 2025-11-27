@@ -1,4 +1,4 @@
- 
+  
 package decorators;
 
 import devices.Device;
@@ -50,4 +50,5 @@ public class MotionSensorDecorator extends DeviceDecorator {
     }
 
 }
+
 
