@@ -1,3 +1,4 @@
+
 package decorators;
 
 import devices.Device;
@@ -47,4 +48,5 @@ public class MotionSensorDecorator extends DeviceDecorator {
     public String toString() {
         return decoratedDevice.toString() + (motionDetectionEnabled ? " with MOTION DETECTION" : "");
     }
+
 }
