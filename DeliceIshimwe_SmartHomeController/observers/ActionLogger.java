@@ -1,4 +1,4 @@
-
+ 
 package observers;
 
 import java.util.ArrayList;
@@ -65,4 +65,5 @@ public class ActionLogger implements Observer {
         logAction(deviceType + " [" + deviceId + "] in " + location + " changed to " + state);
     }
 }
+
 
