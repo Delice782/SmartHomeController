@@ -1,4 +1,4 @@
- 
+  
 package strategy;
 
 import java.util.List;
@@ -22,5 +22,6 @@ public interface AutomationMode {
     void execute(List<Room> rooms);
 
 }
+
 
 
