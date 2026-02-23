@@ -1,4 +1,4 @@
-package strategy;
+ package strategy;
 
 import java.util.List;
 import rooms.Room;
@@ -19,4 +19,5 @@ public interface AutomationMode {
      * @param rooms The list of rooms to apply the automation
      */
     void execute(List<Room> rooms);
+
 }
