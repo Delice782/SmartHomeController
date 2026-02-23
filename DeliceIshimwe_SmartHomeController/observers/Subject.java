@@ -1,4 +1,4 @@
- 
+  
 package observers;
 
 /**
@@ -24,4 +24,5 @@ public interface Subject {
     void notifyObservers();
 
 }
+
 
