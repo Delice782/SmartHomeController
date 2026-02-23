@@ -1,3 +1,4 @@
+
 package observers;
 
 /**
@@ -21,4 +22,5 @@ public interface Subject {
      * notifyObservers method: Notify all registered observers about a state change
      */
     void notifyObservers();
+
 }
