@@ -1,4 +1,4 @@
- 
+  
 package devices;
 
 /**
@@ -48,4 +48,5 @@ public class AirCondictioner extends AbstractDevice {
     }
 
 }
+
 
