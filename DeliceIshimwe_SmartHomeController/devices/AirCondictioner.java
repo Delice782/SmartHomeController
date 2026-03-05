@@ -1,3 +1,4 @@
+
 package devices;
 
 /**
@@ -45,4 +46,5 @@ public class AirCondictioner extends AbstractDevice {
     public String toString() {
         return super.toString() + " at " + temperature + "°C";
     }
+
 }
