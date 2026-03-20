@@ -3,7 +3,7 @@ package controller;
    
 import devices.Device; 
 import observers.ActionLogger;
-import observers.Subject; 
+import observers.Subject;  
 import rooms.Room;
 import strategy.AutomationMode;
 
