@@ -1,6 +1,6 @@
                                                                                                             
 package controller;   
-  
+   
 import devices.Device; 
 import observers.ActionLogger;
 import observers.Subject; 
