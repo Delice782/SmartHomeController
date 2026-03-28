@@ -6,7 +6,7 @@ import observers.ActionLogger;
 import observers.Subject;   
 import rooms.Room;  
 import strategy.AutomationMode; 
-
+ 
 import java.util.ArrayList;   
 import java.util.List; 
 
