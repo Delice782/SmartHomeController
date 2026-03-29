@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;      
     
 /**         
- * SmartHomeController class: Central controller for the smart home system. 
+ * SmartHomeController class: Central controller for the smart home system.  
  * Implements Singleton pattern to ensure only one controller exists.
  */ 
 public class SmartHomeController {
