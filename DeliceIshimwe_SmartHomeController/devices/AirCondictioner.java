@@ -1,5 +1,5 @@
    
-package devices;
+package devices; 
 
 /**
  * AirCondictioner class: Concrete device implementation for air conditioners
