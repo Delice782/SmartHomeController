@@ -19,7 +19,7 @@ public class ActionLogger implements Observer {
     
     // Date formatter for timestamps
     private SimpleDateFormat dateFormat;
-    
+     
     /**
      * ActionLogger(): Private constructor to implement Singleton pattern
      */
