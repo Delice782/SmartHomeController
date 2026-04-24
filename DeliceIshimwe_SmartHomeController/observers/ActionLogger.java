@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List; 
 import java.util.Date;
 import java.text.SimpleDateFormat;
- 
+  
 /**
  * ActionLogger class: implements the Observer pattern to log device state changes.
  * Singleton class to ensure only one logger instance exists.
