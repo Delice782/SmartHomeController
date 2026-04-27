@@ -7,7 +7,7 @@ public interface Device {
     /**
      * turnOn method: Turn the device on
      */
-    void turnOn(); 
+    void turnOn();  
     
     /**
      * turnOff method: Turn the device off
