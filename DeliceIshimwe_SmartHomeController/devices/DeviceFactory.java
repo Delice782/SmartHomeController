@@ -1,7 +1,7 @@
 package devices;       
    
 /**
- * DeviceFactory class: Implements the Factory Pattern to create different  types of devices
+ * DeviceFactory class: Implements the Factory Pattern to create different  types of devices 
  */
 public class DeviceFactory {
     
