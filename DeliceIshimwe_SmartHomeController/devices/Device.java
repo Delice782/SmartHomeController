@@ -1,5 +1,5 @@
 package devices;
-
+ 
 /**
  * Device interface: All smart home devices implement this interface
  */
