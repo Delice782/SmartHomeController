@@ -1,6 +1,6 @@
 package devices;
 
-/**
+/** 
  * Door class: Concrete device implementation for a smart door
  */
 public class Door extends AbstractDevice {
