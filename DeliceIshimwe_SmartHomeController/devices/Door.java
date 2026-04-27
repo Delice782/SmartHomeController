@@ -1,7 +1,7 @@
 package devices;
 
 /** 
- * Door class: Concrete device implementation for a smart door
+ * Door class: Concrete device implementation for a smart door 
  */ 
 public class Door extends AbstractDevice {
     private boolean isLocked;
