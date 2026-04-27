@@ -6,7 +6,7 @@ package devices;
 public interface Device { 
     /**
      * turnOn method: Turn the device on
-     */
+     */ 
     void turnOn();  
     
     /**
