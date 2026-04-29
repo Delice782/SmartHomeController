@@ -1,7 +1,7 @@
             
 package decorators;  
   
-import devices.Device;
+import devices.Device; 
 
 /**
  * DeviceDecorator class: This is a base class for the Decorator Pattern
