@@ -1,6 +1,6 @@
            
 import controller.SmartHomeController;
-import devices.*;
+import devices.*; 
 import decorators.MotionSensorDecorator;
 import rooms.Room;
 import strategy.*;
