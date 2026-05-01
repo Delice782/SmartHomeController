@@ -1,4 +1,4 @@
-            
+             
 import controller.SmartHomeController;
 import devices.*; 
 import decorators.MotionSensorDecorator;
