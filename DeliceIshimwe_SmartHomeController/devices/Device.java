@@ -31,7 +31,7 @@ public interface Device {
      * getDeviceType method: Get the device type
      * @return The device type ("Light", "Door", "AirCondictioner")
      */
-    String getDeviceType();
+    String getDeviceType(); 
     
     /**
      * getLocation method: Get the location of the device
