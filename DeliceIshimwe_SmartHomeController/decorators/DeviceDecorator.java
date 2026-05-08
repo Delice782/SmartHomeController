@@ -5,7 +5,7 @@ import devices.Device;
    
 /** 
  * DeviceDecorator class: This is a base class for the Decorator Pattern
- * Allows adding additional functionality to devices at runtime
+ * Allows adding additional functionality to devices at runtime 
  */
 public abstract class DeviceDecorator implements Device {
     protected Device decoratedDevice;
