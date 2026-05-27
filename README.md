@@ -19,3 +19,4 @@ This project implements a Java-based Smart Home Controller application that simu
 2. Open it in your preferred Java IDE (e.g., VSC, IntelliJ, Eclipse).  
 3. Run `Main.java` to launch the Smart Home Controller demo.
  
+ 
